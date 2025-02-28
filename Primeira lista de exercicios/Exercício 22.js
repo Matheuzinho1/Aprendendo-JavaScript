@@ -1,4 +1,4 @@
-let pergunta = `Lucas é gay?`;
+let pergunta = `Lucas é legal?`;
 
 console.log(pergunta);
 
